@@ -62,7 +62,7 @@ Internet connection (for Google Fonts)
 
 Google Fonts
 
-Created by:Arben Husenaj, James Kochan
+Created by: Arben Husenaj, James Kochan
 
 Created 5/30/25
 
