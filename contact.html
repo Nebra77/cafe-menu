@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Contact</title>
+        <link rel="stylesheet" href="barben.css">
+    </head>
+    <body>
+        <header>
+            <h1>Oasis Café</h1>
+            <nav>
+                <ul>
+                    <li><a href="index.html">Menu</a></li>
+                    <li><a href="contact.html">Contact Us</a></li> 
+                </ul>
+            </nav>
+        </header>
+        <main>
+            <h2>Contact Us</h2>
+            <form action="" method="">
+                <div>
+                    <label for="name">Name:</label><input type="text" placeholder="Enter name here" id="name" name="name">
+                </div>
+
+                <div>
+                    <label for="input_email">Email:</label><input type="email" placeholder="Enter email here" id="input_email" name="input_email">
+                </div>
+                <div>
+                    <label for="phone_num">Phone number:</label><input type="phone_num" placeholder ="Enter phone number here" id = "input_phone_num"  name = "input_phone_num">
+                </div>
+
+                <div>
+                    <label for="message">Message:</label><textarea cols="50" rows="4" id="message" name="message"></textarea>
+                </div>
+
+
+                <div>
+                    <label for="subject">Subject</label>
+                    <select id="subject">
+                        <optgroup label="Reservations"> 
+                            <option value="returns">New reservation</option>
+                            <option value="change">Change/remove reservation</option>
+                        </optgroup>
+
+                        <optgroup label="Delivery">
+                            <option value="delivery_info">Delivery Info</option>
+                            <option value="order_tracking">Tracking My Order</option>
+                        </optgroup>
+
+                        <optgroup label="Other">
+                            <option value="direct">Direct contact</option>
+                            <option value="other">Other</option>
+
+                        </optgroup>
+                    </select>
+                </div>
+
+                <div>
+                    <p>How would you like us to respond?</p>
+                    <label for="phone_response">Phone</label>
+                    <input type="radio" id="phone_response" name="response" value="phone_response">
+                    <label for="email_response">Email</label>
+                    <input type="radio" id="email_response" name="response" value="email_response">
+                    <label for="both">Both</label>
+                    <input type="radio" id="both" name="response" value="both">
+                </div>
+
+                <div>
+                    <input type="submit">
+                </div>
+            </form>
+        </main>
+    </body>
+    <footer>
+    <h2>About us</h2>
+    <p>Welcome to The Oasis Café, the finest coffeehouse on Mars, where comfort meets the cosmos. Nestled inside Habitat Dome 12 near the edge of Valles Marineris, we’re a cozy escape for explorers, engineers, and dreamers alike. Our menu features handcrafted drinks and bites made with hydroponic ingredients, lab-grown proteins, and a touch of Earth nostalgia. We believe that even 225 million kilometers from home, a warm cup and good company can make all the difference. Whether you’ve just come in from a rover run or need a quiet break from the lab, we’re here to brew a little joy—one low-gravity sip at a time.</p>
+</footer>
+</html>
