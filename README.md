@@ -66,6 +66,6 @@ Google Fonts
 
 Created by: Arben Husenaj, James Kochan
 
-Created 5/30/25
+Completed  6/1/25
 
 ## For questions or suggestions, contact us at Github!
