@@ -44,10 +44,6 @@ The whole site is styled to match a Martian atmosphere, using warm colors like o
 
 #### Add images for menu items
 
-#### Include prices
-
-#### Create an online ordering system
-
 #### Add customer review section
 
 #### Include payment processing
