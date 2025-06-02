@@ -14,7 +14,7 @@ Each food item uses a function that toggles a hidden <span> to make it visible, 
 #### Contact Page
 This is a form where users can submit their name, email, and messsage. It includes a dropdown for categories and buttons for preferred contact methods. THis simulates a real fillable form, although this does not connect to a backend, (yet)
 
-##### Theme
+#### Theme
 The whole site is styled to match a Martian atmosphere, using warm colors like orange, red, and brown. Pop-ups have unique styling with rounded corners and animations.
 
 ## How it Works
