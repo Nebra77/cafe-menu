@@ -2,7 +2,7 @@
 
 ## Project Description
 
-A simple HTML website for a space-themed café menu. This project was created with basic web development skills and to showcase a creative menu design with space-inspired food names.
+An HTML website for a space-themed café menu. This project was created with basic web development skills and to showcase a creative menu design with space-inspired food names.
 
 ## Features
 
